@@ -1,0 +1,59 @@
+﻿@model Unleashed_MVC.Models.Brand
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Brand</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BrandId" />
+            <div class="form-group">
+                <label asp-for="BrandName" class="control-label"></label>
+                <input asp-for="BrandName" class="form-control" />
+                <span asp-validation-for="BrandName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandDescription" class="control-label"></label>
+                <input asp-for="BrandDescription" class="form-control" />
+                <span asp-validation-for="BrandDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandImageUrl" class="control-label"></label>
+                <input asp-for="BrandImageUrl" class="form-control" />
+                <span asp-validation-for="BrandImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandWebsiteUrl" class="control-label"></label>
+                <input asp-for="BrandWebsiteUrl" class="form-control" />
+                <span asp-validation-for="BrandWebsiteUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandCreatedAt" class="control-label"></label>
+                <input asp-for="BrandCreatedAt" class="form-control" />
+                <span asp-validation-for="BrandCreatedAt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandUpdatedAt" class="control-label"></label>
+                <input asp-for="BrandUpdatedAt" class="form-control" />
+                <span asp-validation-for="BrandUpdatedAt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,48 @@
+﻿@model Unleashed_MVC.Models.Rank
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Rank</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RankName" class="control-label"></label>
+                <input asp-for="RankName" class="form-control" />
+                <span asp-validation-for="RankName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RankNum" class="control-label"></label>
+                <input asp-for="RankNum" class="form-control" />
+                <span asp-validation-for="RankNum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RankPaymentRequirement" class="control-label"></label>
+                <input asp-for="RankPaymentRequirement" class="form-control" />
+                <span asp-validation-for="RankPaymentRequirement" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RankBaseDiscount" class="control-label"></label>
+                <input asp-for="RankBaseDiscount" class="form-control" />
+                <span asp-validation-for="RankBaseDiscount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

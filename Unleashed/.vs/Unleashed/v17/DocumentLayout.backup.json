@@ -1,14 +1,158 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unleashed_PRN212\\Unleashed\\",
+  "WorkspaceRootPath": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\unleashed_prn212\\unleashed\\unleashed_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\variationsinglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\variationsinglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\unleashed_prn212\\unleashed\\unleashed_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\variationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\variationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\userrankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\userrankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\userdiscountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\userdiscountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\transactiontypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\transactiontypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\stockvariationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\stockvariationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\sizescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\shippingmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\shippingmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\saletypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\saletypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\salestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\salestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\rankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\productstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\productstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\ordervariationsinglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\ordervariationsinglescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\orderstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\orderstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\notificationuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\notificationuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\discounttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\discounttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\discountstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\discountstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\discountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\models\\unleashedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\models\\unleashedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|d:\\fptuniversity\\su25\\prn222\\src\\unleashed\\unleashed_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64749E6A-A224-4659-86F1-1A445E655892}|Unleashed_MVC\\Unleashed_MVC.csproj|solutionrelative:unleashed_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +167,496 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Unleashed_MVC\\appsettings.Development.json",
-              "ToolTip": "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\appsettings.Development.json",
-              "RelativeToolTip": "Unleashed_MVC\\appsettings.Development.json",
+              "Title": "VariationSinglesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\VariationSinglesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\VariationSinglesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\VariationSinglesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\VariationSinglesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T16:26:57.505Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:21:54.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Unleashed_MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Unleashed_MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T16:26:47.451Z"
+              "Title": "VariationsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\VariationsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\VariationsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\VariationsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\VariationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:21:11.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRanksController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\UserRanksController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\UserRanksController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\UserRanksController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\UserRanksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:19:57.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDiscountsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\UserDiscountsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\UserDiscountsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\UserDiscountsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\UserDiscountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:19:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:18:26.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionTypesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\TransactionTypesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\TransactionTypesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\TransactionTypesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\TransactionTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:17:44.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:17:06.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockVariationsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\StockVariationsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\StockVariationsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\StockVariationsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\StockVariationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:16:28.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\StocksController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:15:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SizesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SizesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\SizesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SizesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\SizesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:15:07.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShippingMethodsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ShippingMethodsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\ShippingMethodsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ShippingMethodsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\ShippingMethodsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:14:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaleTypesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SaleTypesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\SaleTypesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SaleTypesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\SaleTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:13:47.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SaleStatusController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SaleStatusController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\SaleStatusController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SaleStatusController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\SaleStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:13:06.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:12:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:11:48.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:11:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RanksController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\RanksController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\RanksController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\RanksController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\RanksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:10:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProvidersController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ProvidersController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\ProvidersController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ProvidersController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\ProvidersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:09:56.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductStatusController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ProductStatusController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\ProductStatusController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ProductStatusController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\ProductStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:08:55.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:08:18.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentMethodsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\PaymentMethodsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\PaymentMethodsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\PaymentMethodsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\PaymentMethodsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:07:30.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderVariationSinglesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\OrderVariationSinglesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\OrderVariationSinglesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\OrderVariationSinglesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\OrderVariationSinglesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:06:43.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderStatusController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\OrderStatusController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\OrderStatusController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\OrderStatusController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\OrderStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:06:10.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:05:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationUsersController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\NotificationUsersController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\NotificationUsersController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\NotificationUsersController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\NotificationUsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:04:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\NotificationsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:03:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DiscountTypesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\DiscountTypesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\DiscountTypesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\DiscountTypesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\DiscountTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:03:11.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiscountStatusController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\DiscountStatusController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\DiscountStatusController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\DiscountStatusController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\DiscountStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:01:51.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DiscountsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\DiscountsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\DiscountsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\DiscountsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\DiscountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:00:48.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T15:00:20.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\ColorsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\ColorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:59:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:59:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:58:14.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:55:17.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Unleashed_MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T14:53:16.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Program.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Program.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:47:02.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\appsettings.json",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\appsettings.json",
+              "RelativeToolTip": "Unleashed_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T14:46:58.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UnleashedContext.cs",
+              "DocumentMoniker": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Models\\UnleashedContext.cs",
+              "RelativeDocumentMoniker": "Unleashed_MVC\\Models\\UnleashedContext.cs",
+              "ToolTip": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Models\\UnleashedContext.cs",
+              "RelativeToolTip": "Unleashed_MVC\\Models\\UnleashedContext.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:46:49.344Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,3 +1,7 @@
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
+using Unleashed_MVC.Models;
+
 namespace Unleashed_MVC
 {
     public class Program
@@ -8,6 +12,8 @@ namespace Unleashed_MVC
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<UnleashedContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
 

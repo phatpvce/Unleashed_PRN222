@@ -1,0 +1,113 @@
+﻿@model IEnumerable<Unleashed_MVC.Models.Discount>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountMinimumOrderValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountMaximumValue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountUsageLimit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountEndDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountCreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountUpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountUsageCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountRankRequirementNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiscountType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountValue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountMinimumOrderValue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountMaximumValue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountUsageLimit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountEndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountCreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountUpdatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountUsageCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountRankRequirementNavigation.RankId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountStatus.DiscountStatusId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiscountType.DiscountTypeId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.DiscountId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.DiscountId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.DiscountId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

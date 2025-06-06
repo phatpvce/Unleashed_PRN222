@@ -1,0 +1,40 @@
+﻿@model Unleashed_MVC.Models.NotificationUser
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>NotificationUser</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NotificationId" />
+            <input type="hidden" asp-for="UserId" />
+            <div class="form-group">
+                <label asp-for="IsNotificationViewed" class="control-label"></label>
+                <input asp-for="IsNotificationViewed" class="form-control" />
+                <span asp-validation-for="IsNotificationViewed" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsNotificationDeleted" class="control-label"></label>
+                <input asp-for="IsNotificationDeleted" class="form-control" />
+                <span asp-validation-for="IsNotificationDeleted" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

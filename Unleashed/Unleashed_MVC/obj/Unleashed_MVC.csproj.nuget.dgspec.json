@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj": {}
+    "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj": {}
   },
   "projects": {
-    "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj": {
+    "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj",
+        "projectUniqueName": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj",
         "projectName": "Unleashed_MVC",
-        "projectPath": "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Unleashed_PRN212\\Unleashed\\Unleashed_MVC\\obj\\",
+        "projectPath": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\Unleashed_MVC.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTUniversity\\SU25\\PRN222\\src\\Unleashed\\Unleashed_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VStudio\\Tool\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -60,6 +60,16 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -81,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

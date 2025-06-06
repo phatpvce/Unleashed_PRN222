@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Unleashed_MVC.Models.Provider>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderCreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderUpdatedAt)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderImageUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderCreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderUpdatedAt)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProviderId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ProviderId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProviderId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

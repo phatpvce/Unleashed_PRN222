@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unleashed_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aed8ec81ccde7055f4e78593eada4703334fb498")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab0e6e1ca2c87d5bc1ff27aba8ca7e4f4bf31ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unleashed_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unleashed_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
